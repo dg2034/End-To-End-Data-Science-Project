@@ -113,7 +113,7 @@ Response:
 }
 ```
 
-### 7. 🌐 Live API Demo
+## 🌐 Live API Demo
 
 The project is deployed on Render and publicly available at:
 🔗 https://fake-news-detection-api-ksr0.onrender.com/
