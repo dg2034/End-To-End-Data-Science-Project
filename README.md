@@ -1,16 +1,5 @@
 # End-To-End-Data-Science-Project
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: DEEP GHEEWALA
-
-*INTERN ID*: CT04DF578
-
-*DOMAIN*: DATA SCIENCE
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
 
 # 📰 Fake News Detection using Machine Learning (End-to-End Project)
 
